@@ -13,13 +13,13 @@ name: "ZZAME"
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "$site_I develop,"
+  top_header_line1: "I develop,"
   # if commented, top header will be a single line
-  top_header_line2: "$site_therefore i am"
+  top_header_line2: "therefore i am"
 
 # about page sub title
 about:
-  sub_title: "$site_I'm a server engineer"
+  sub_title: "I'm a server engineer"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -48,12 +48,12 @@ meta_common_description: "Server engineer"
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/DEVZZAME"
+  - github: "DEVZZAME"
   - email: "dev.zzame@gmail.com"
   #- linkedin: ""
   #- twitter: ""
   #- mastodon: ""
-  - instagram: "https://www.instagram.com/zza__me"
+  - instagram: "zza__me"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
